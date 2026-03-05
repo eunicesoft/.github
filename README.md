@@ -21,8 +21,3 @@ We build innovative software solutions that connect **people, technology, and re
 - Information Security  
 - System Integration (SI)  
 - Software Platforms  
-
-## Contact
-For inquiries or support, please contact us at:
-- Email: jspark@eunicesoft.co.kr
-- Tel: 042.482.8368
