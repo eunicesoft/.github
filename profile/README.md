@@ -16,8 +16,7 @@ Eunicesoft is an IT company with expertise in **Artificial Intelligence, Control
 We build innovative software solutions that connect **people, technology, and real-world needs**.
 
 ## Expertise 
-- Artificial Intelligence  
-- Control Systems  
-- Information Security  
-- System Integration (SI)  
-- Software Platforms  
+- IT/OT Cybersecurity
+- Industrial Security
+- Security Monitoring
+- BAS (Breach and Attack Simulation)
